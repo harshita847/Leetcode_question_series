@@ -5,10 +5,8 @@ class Solution {
 
         for(int i=m.length()-1;i>=0;i--){
            
-             if(m.length()==1){
-                return 1;
-            }
-            else if(m.charAt(i)!=' '){
+             
+             if(m.charAt(i)!=' '){
                 ++count;
 
             }
