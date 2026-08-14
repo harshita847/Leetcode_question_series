@@ -42,6 +42,7 @@ Each problem includes:
 - Dynamic Programming
 - Greedy Algorithms
 - Recursion & Backtracking
+- sorting
 - And more...
 
 ---
